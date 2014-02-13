@@ -1,10 +1,10 @@
 # HackBU Boilerplate
 A starting point for working on small HTML + CSS + JavaScript projects.
 
-## What This Is
+## What is this?
 The HackBU Boilerplate is a _very_ barebones project containing everything you need to get started working on an HTML project. It provides you with an `index.html` file that you can start filling out, along with starter CSS files, and a basic project layout for putting your own files in.
 
-## How to Use the HackBU Boilerplate
+## How to use the HackBU Boilerplate
 Using the boilerplate couldn't be simpler:
 
 1. Click "Download ZIP" in the sidebar on the right.  
@@ -15,4 +15,4 @@ You can edit the provided files to your heart's content. This `README.md` file i
 
 When working on your project, put any JavaScript code you're working on in the `js` folder, any images you'll be using in the `img` folder, and any of your CSS in the `css` folder (we've already provided a `main.css` file for you to start editing) -- this is common in a lot of web development projects, and will help keep you organized and your files from sprawling all over the place. Plus, anyone who's worked on web development in the past will be able to immediately recognize your project's structure.
 
-### Now get to hacking!
+**Now get to hacking!**
